@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**brunalimap/brunalimap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  🎓 Engenheira Biomédica apaixonada pela área de Dados
 
 Here are some ideas to get you started:
 
