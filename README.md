@@ -9,7 +9,7 @@
 
 </br>
 
-### Linguagem e Ferramentas 
+### Linguagens e Ferramentas 
 <img align="left" alt="python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="visual_studio_code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
