@@ -1,6 +1,7 @@
 ### Bruna Lima ✌🏻
 
 -  🎓 Engenheira Biomédica apaixonada pela área de Dados
+-  📚 Profissional Lifelong learning
 
 
 ### Contatos
