@@ -1,4 +1,8 @@
-### Bruna Lima ✌🏻
+<p align="center">
+  <img src="https://github.com/brunalimap/brunalimap/blob/main/img/imagem.gif" >
+</p>
+
+
 
 -  🎓 Engenheira Biomédica apaixonada pela área de Dados
 -  📚 Profissional Lifelong learning
