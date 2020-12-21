@@ -4,16 +4,18 @@
 
 
 
--  🎓 Engenheira Biomédica apaixonada pela área de Dados
--  📚 Profissional Lifelong learning
+-  🎓 Graduated Biomedical Engineer 
+-  📊 Future Data Science 
+-  📚 Professionals Lifelong learning
 
 
-### Contatos
+### Contacts
 [<img align="left"  width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/brunalimap)
+[<img align="left"  width="24px" src="https://www.shutterstock.com/pt/image-vector/mail-icon-523869661?irclickid=TnsVdx0svxyLRLbwUx0Mo3IWUkE3AXSvbT-RT80&irgwc=1&utm_medium=Affiliate&utm_campaign=Icons8&utm_source=2052558&utm_term=&c3ch=Affiliate&c3nid=IR-2052558" />](brunapereira@geb.inatel.br)
 
 </br>
 
-### Linguagens e Ferramentas 
+### Languages and Tools
 <img align="left" alt="python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="visual_studio_code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
