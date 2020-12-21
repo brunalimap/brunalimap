@@ -11,7 +11,7 @@
 
 ### Contacts
 [<img align="left"  width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/brunalimap)
-[<img align="left"  width="24px"<img src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>](brunapereira@geb.inatel.br)
+[<img align="left"  width="24px" src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>](brunapereira@geb.inatel.br)
 
 </br>
 
