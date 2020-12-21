@@ -11,7 +11,7 @@
 
 ### Contacts
 [<img align="left"  width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/brunalimap)
-[<img align="left"  width="24px" src="https://www.shutterstock.com/pt/image-vector/mail-icon-523869661?irclickid=TnsVdx0svxyLRLbwUx0Mo3IWUkE3AXSvbT-RT80&irgwc=1&utm_medium=Affiliate&utm_campaign=Icons8&utm_source=2052558&utm_term=&c3ch=Affiliate&c3nid=IR-2052558" />](brunapereira@geb.inatel.br)
+[<img align="left"  width="24px"<img src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/>](brunapereira@geb.inatel.br)
 
 </br>
 
