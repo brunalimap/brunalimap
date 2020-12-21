@@ -20,7 +20,7 @@
 <img align="left" alt="visual_studio_code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
 <img align="left" alt="powerbi" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="mysql" width="30px" src="https://icon-icons.com/pt/icone/mysql-simples-a-marca-logo/146415" />
+<img align="left" alt="mysql" width="30px" src="https://github.com/brunalimap/brunalimap/blob/main/img/mysql.png" />
 
 
 
