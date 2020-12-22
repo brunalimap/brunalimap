@@ -6,7 +6,7 @@
 
 -  🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
--  📚 Professionals Lifelong learning
+-  📚 Professional Lifelong learning
 
 
 ### Contacts
