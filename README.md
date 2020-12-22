@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/brunalimap/brunalimap/blob/main/img/imagem.gif" >
+  <img src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.gif" >
 </p>
 
 
