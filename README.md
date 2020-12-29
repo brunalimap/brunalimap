@@ -1,4 +1,4 @@
-<img align="center" height="450" width="1000"  src="https://github.com/brunalimap/brunalimap/blob/main/img/im01.gif">
+<img align="center" height="300" width="800"  src="https://github.com/brunalimap/brunalimap/blob/main/img/im01.gif">
 
 
 
