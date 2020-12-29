@@ -1,4 +1,4 @@
-(https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
+[](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
 <p align="center">
   <img src="https://github.com/brunalimap/brunalimap/blob/main/img/im01.gif" >
 </p>
