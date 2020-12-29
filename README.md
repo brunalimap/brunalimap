@@ -8,10 +8,10 @@
 
 
 ### Contacts
-[<img align="left"  width="30px" src="https://github.com/brunalimap/brunalimap/blob/main/img/likedin.png" />](https://www.linkedin.com/in/brunalimap)
-[<img align="left"  width="30px" src="https://github.com/brunalimap/brunalimap/blob/main/img/email.png"/>](email:brunapereira@geb.inatel.br)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunalimap)](https://github.com/brunalimap)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimap/)](https://www.linkedin.com/in/brunalimap/)
 
-</br>
+
 
 ### Languages and Tools
 <img align="left" alt="python" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
