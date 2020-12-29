@@ -2,7 +2,7 @@
 
 
 
--  🎓 Graduated Biomedical Engineer 
+- :mortar_board: Graduated Biomedical Engineer 
 -  📊 Future Data Science 
 -  📚 Professional Lifelong learning
 
