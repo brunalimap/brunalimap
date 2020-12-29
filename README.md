@@ -1,3 +1,8 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunalimap)](https://github.com/brunalimap)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimap/)](https://www.linkedin.com/in/brunalimap/)
+[![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
+
+
 <img align="center" height="300" width="900"  src="https://github.com/brunalimap/brunalimap/blob/main/img/im01.gif">
 
 
@@ -5,12 +10,6 @@
 - :mortar_board: Graduated Biomedical Engineer 
 -  📊 Future Data Science 
 -  📚 Professional Lifelong learning
-
-
-### Contacts
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunalimap)](https://github.com/brunalimap)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimap/)](https://www.linkedin.com/in/brunalimap/)
-
 
 
 ### Languages and Tools
