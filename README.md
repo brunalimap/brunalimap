@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
 
 
-<img align="center" height="300" width="900"  src="https://github.com/brunalimap/brunalimap/blob/main/img/im02.mp4">
+<img align="center" height="300" width="900"  src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.mp4">
 
 
 
