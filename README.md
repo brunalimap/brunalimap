@@ -5,18 +5,18 @@
 
 <img align="center" height="300" width="900"  src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.gif">
 
-- :mortar_board: Graduated Biomedical Engineer 
+- 👩🏻‍🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
--  📚 Professional Lifelong learning
+-  🤓 Professional Lifelong learning 
 
-### Projects Data Science
-- [Predict Rossmann Store](https://github.com/brunalimap/DataScience_em_Producao)
+### Projects Data Science 💻
+- [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao)
 
-### 💻 Courses
+### Courses 📚
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
-### 🛠️ Languages and Tools
+### Languages and Tools 🛠️
 <img align="left" alt="python" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="visual_studio_code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
