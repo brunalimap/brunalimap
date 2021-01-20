@@ -10,11 +10,11 @@
 -  📚 Professional Lifelong learning
 
 ### Projects Data Science
--[Predict Rossmann Store](https://github.com/brunalimap/DataScience_em_Producao)
+- [Predict Rossmann Store](https://github.com/brunalimap/DataScience_em_Producao)
 
 ### Courses
--[Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
--[Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
+- [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
+- [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
 ### Languages and Tools
 <img align="left" alt="python" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
