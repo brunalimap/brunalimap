@@ -16,12 +16,15 @@
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
-### Languages and Tools 🛠️
-<img align="left" alt="python" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="visual_studio_code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
-<img align="left" alt="powerbi" width="40px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="mysql" width="40px" src="https://github.com/brunalimap/brunalimap/blob/main/img/mysql.png" />
+
+### Analytical Tools 🛠️
+<b>Data Collect and Storage</b>: SQL, MySQL and Postgres. 
+<b>Data Processing and Analysis</b>: Python.
+<b>Development</b>: Git, Scrum, Kanban, Lean Analytics and Linux.
+<b>Data Vizualization</b>: Power BI,Tableau. 
+<b>Machine Learning Modeling</b>: Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP.
+<b>Machine Learning Deployment</b>: IBM Cloud.
+
 
 
 
