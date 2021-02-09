@@ -11,6 +11,7 @@
 
 ### Projects Data Science 💻
 - [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao)
+- [Prioritizing customers for car insurance sales(in progress)](https://github.com/brunalimap/health_insurance_cross_sell)
 
 ### Courses 📚
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
