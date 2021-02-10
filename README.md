@@ -12,7 +12,7 @@
 ### Projects Data Science 💻
 - [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao)
 
-In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann
+  In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann.
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
