@@ -27,7 +27,7 @@
 - <b>Data Collect and Storage</b>: SQL, MySQL and Postgres. 
 - <b>Data Processing and Analysis</b>: Python.
 - <b>Development</b>: Git, Scrum, Kanban, Lean Analytics and Linux.
-- <b>Data Vizualization</b>: Power BI,Tableau. 
+- <b>Data Vizualization</b>: Power BI and Tableau. 
 - <b>Machine Learning Modeling</b>: Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP.
 - <b>Machine Learning Deployment</b>: IBM Cloud.
 
