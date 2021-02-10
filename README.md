@@ -22,6 +22,8 @@
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
+  Solutions to the challenges proposed during the Aceleradev Data Science course.
+
 
 ### Analytical Tools 🛠️
 - <b>Data Collect and Storage</b>: SQL, MySQL and Postgres. 
