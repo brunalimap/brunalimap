@@ -16,6 +16,8 @@
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
+  This project aims to develop a machine learning model capable of predicting the customer's interest in purchasing auto insurance so that sales are optimized.
+
 ### Courses 📚
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
