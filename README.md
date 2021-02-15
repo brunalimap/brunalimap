@@ -20,9 +20,11 @@
 
 ### Courses 📚
 - [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
+- [Curso de HTML e CSS](https://github.com/brunalimap/exercicios_html_css)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
   Solutions to the challenges proposed during the Aceleradev Data Science course.
+  
 
 
 ### Analytical Tools 🛠️
