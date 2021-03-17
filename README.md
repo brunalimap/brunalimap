@@ -10,7 +10,7 @@
 -  🤓 Professional Lifelong learning 
 
 ### Projects Data Science 💻
-- [Predict Sales Rossmann Stores (Ongoing)](https://github.com/brunalimap/DataScience_em_Producao)
+- [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao)
 
   In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann.
 
@@ -19,8 +19,9 @@
   This project aims to develop a machine learning model capable of predicting the customer's interest in purchasing auto insurance so that sales are optimized.
 
 ### Courses 📚
-- [Python - Comunidade Data Science](https://github.com/brunalimap/house_rocket)
-- [Curso de HTML e CSS](https://github.com/brunalimap/exercicios_html_css)
+- [Curso Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
+- [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket)
+- [Curso de HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)
 
   Solutions to the challenges proposed during the Aceleradev Data Science course.
