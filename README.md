@@ -24,7 +24,7 @@
 - [Curso de HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
-  In this course, I performed several analyzes for the CEO of a fictional company called House Rocket
+  In this course, I performed various analyzes for the CEO of a fictional company called House Rocket
    - skills: Pandas, Numpy, Streamlit,Seaborn and Maps
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
