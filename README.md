@@ -22,8 +22,8 @@
 - [Bootcamp Engenheiro de Dados](https://github.com/brunalimap/data_collect/blob/main/README.md)
 - [Curso Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
 - [Curso de HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
-- [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket)✅
-- [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience)✅
+- [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) ✔️
+- [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) ✔️
 
   Solutions to the challenges proposed during the Aceleradev Data Science course.
   
