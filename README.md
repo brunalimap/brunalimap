@@ -25,12 +25,12 @@
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
   In this course, I performed several analyzes for the CEO of a fictional company called House Rocket
-  skills: Pandas, Numpy, Streamlit,Seaborn and Maps
+   - skills: Pandas, Numpy, Streamlit,Seaborn and Maps
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
 
   Solutions to the challenges proposed during the Aceleradev Data Science course.
-  skills: Pandas, Numpy, Ploty, Seaborn and Machine Learning
+   - skills: Pandas, Numpy, Ploty, Seaborn and Machine Learning
   
 
 
