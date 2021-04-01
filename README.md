@@ -10,7 +10,7 @@
 -  🤓 Professional Lifelong learning 
 
 ### Projects Data Science 💻
-- [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao)[Completed ✔️]
+- [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao) [Completed ✔️]
 
   In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann.
 
