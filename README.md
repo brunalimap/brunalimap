@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
 
 
-<img align="center" height="500" width="850"  src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.jpeg">
+<img align="center" src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.jpeg">
 
 - 👩🏻‍🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
@@ -17,6 +17,10 @@
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
   This project aims to develop a machine learning model capable of predicting the customer's interest in purchasing auto insurance so that sales are optimized.
+  
+ - [Analytics House Rocket](https://github.com/brunalimap/project_house_rocket) [Completed ✔️] 
+
+  The objective of this project is to demonstrate the some insights of a dataset for a fictitious company in the field of real houses sales. [Streamlit app](https://simulation-house-rocket.herokuapp.com/)
 
 ### Courses 📚
 - [Bootcamp Engenheiro de Dados](https://github.com/brunalimap/data_collect/blob/main/README.md)
