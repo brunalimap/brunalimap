@@ -12,7 +12,7 @@
 ### Projects Data Science 💻
 - [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao) [Completed ✔️] 
 
-  In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann. [Acess Bot Telegram](https://t.me/salesrossmann_bot)
+  In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann. [Access Bot Telegram](https://t.me/salesrossmann_bot)
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
@@ -25,8 +25,7 @@
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
   The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket. [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
-   - skills: Pandas, Numpy, Streamlit,Seaborn and Maps
-   
+   - skills: Pandas, Numpy, Streamlit,Seaborn and Maps  
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
 
@@ -34,12 +33,11 @@
    - skills: Pandas, Numpy, Ploty, Seaborn and Machine Learning
   
 
-
 ### Analytical Tools 🛠️
 - <b>Data Collect and Storage</b>: SQL, MySQL and Postgres. 
 - <b>Data Processing and Analysis</b>: Python.
 - <b>Development</b>: Git, Scrum, Kanban, Lean Analytics and Linux.
-- <b>Data Vizualization</b>: Power BI and Tableau. 
+- <b>Data Vizualization</b>: Power BI, Google Data Studio and Tableau. 
 - <b>Tools ETL</b>: Pentaho.
 - <b>Machine Learning Modeling</b>: Classification, Regression, Clustering, Time Series and NLP.
 - <b>Machine Learning Deployment</b>: Heroku, IBM Cloud.
