@@ -26,6 +26,7 @@
   
   In this course, I performed various analyzes for the CEO of a fictional company called House Rocket
    - skills: Pandas, Numpy, Streamlit,Seaborn and Maps
+   - [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
 
