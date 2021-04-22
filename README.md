@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
 
 
-<img align="center" width=350 src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.jpeg">
+<img align="center" width=700 src="https://github.com/brunalimap/brunalimap/blob/main/img/img02.jpeg">
 
 - 👩🏻‍🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
