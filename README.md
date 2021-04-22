@@ -2,6 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimap/)](https://www.linkedin.com/in/brunalimap/)
 [![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
 
+<img  src="https://github.com/brunalimap/brunalimap/blob/main/img/img01.gif">
+
 - 👩🏻‍🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
 -  📖 Professional Lifelong learning 
