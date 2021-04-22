@@ -7,7 +7,8 @@
 
 - 👩🏻‍🎓 Graduated Biomedical Engineer 
 -  📊 Future Data Science 
--  🤓 Professional Lifelong learning 
+-  📖 Professional Lifelong learning 
+- 👩🏻‍💻 Enthusiastic about developing projects that help solve business problems.
 
 ### Projects Data Science 💻
 - [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao) [Completed ✔️] 
