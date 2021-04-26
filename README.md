@@ -18,7 +18,7 @@
 - [Analytics House Rocket](https://github.com/brunalimap/project_house_rocket) [Completed ✔️] 
 
   The objective of this project is to demonstrate the some insights of a dataset for a fictitious company in the field of real houses sales. 
-  ➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)
+   ➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
@@ -32,8 +32,8 @@
 - [Course of HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
-  The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket. 
-  ➡️ [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
+  The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket.
+    ➡️ [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
    - skills: Pandas, Numpy, Streamlit,Seaborn and Maps  
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
