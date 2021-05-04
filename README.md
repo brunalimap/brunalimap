@@ -18,7 +18,7 @@
 - [Analytics House Rocket](https://github.com/brunalimap/project_house_rocket) [Completed ✔️] 
 
   The objective of this project is to demonstrate the some insights of a dataset for a fictitious company in the field of real houses sales. 
-  <b>➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)</b>
+  <p>➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)</p>
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
