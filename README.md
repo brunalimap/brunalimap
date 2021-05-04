@@ -19,7 +19,7 @@
 
   The objective of this project is to demonstrate the some insights of a dataset for a fictitious company in the field of real houses sales. 
    
-➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)
+<b>➡️ [Streamlit app](https://simulation-house-rocket.herokuapp.com/)</b>
 
 - [Prioritizing customers for car insurance sales (Ongoing)](https://github.com/brunalimap/health_insurance_cross_sell)
 
