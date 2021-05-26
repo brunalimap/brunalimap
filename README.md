@@ -28,6 +28,7 @@
 
 
 ### Courses 📚
+- [Curso Python do DS ao DEV](https://github.com/brunalimap/python_ds_dev)
 - [Bootcamp Engenheiro de Dados](https://github.com/brunalimap/data_collect/blob/main/README.md)
 - [Course Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
 - [Course of HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
