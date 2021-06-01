@@ -9,7 +9,7 @@
 -  📖 Professional Lifelong learning 
 - 👩🏻‍💻 Enthusiastic about developing projects that help solve business problems.
 
-### Projects Data Science 💻
+### Projects of Data Science 💻
 - [Predict Sales Rossmann Stores](https://github.com/brunalimap/DataScience_em_Producao) [Completed ✔️] 
 
   In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann. 
@@ -30,18 +30,21 @@
 ### Courses 📚
 - [Curso Python do DS ao DEV](https://github.com/brunalimap/python_ds_dev)
 - [Bootcamp Engenheiro de Dados](https://github.com/brunalimap/data_collect/blob/main/README.md)
-- [Course Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
 - [Course of HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
+
+- [Course Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
+      skills: DAX, Language M, Storytelling
+      
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
   The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket.
     
   ➡️ [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
-   - skills: Pandas, Numpy, Streamlit,Seaborn and Maps  
+   - skills: Functions, Pandas, Numpy, Streamlit,Seaborn and Maps  
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
-
   Solutions to the challenges proposed during the Aceleradev Data Science course.
+  
    - skills: Pandas, Numpy, Ploty, Seaborn and Machine Learning
   
 
