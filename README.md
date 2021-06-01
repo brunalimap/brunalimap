@@ -36,8 +36,7 @@
   - skills: DAX, Language M, Storytelling
       
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
-  
-  The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket.
+The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket.
     
   ➡️ [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
    - skills: Functions, Pandas, Numpy, Streamlit,Seaborn and Maps  
@@ -45,7 +44,7 @@
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
   Solutions to the challenges proposed during the Aceleradev Data Science course.
   
-   - skills: Pandas, Numpy, Ploty, Seaborn and Machine Learning
+   - <b>skills:</b> Pandas, Numpy, Ploty, Seaborn and Machine Learning
   
 
 ### Analytical Tools 🛠️
