@@ -33,7 +33,7 @@
 - [Course of HTML5 e CSS3](https://github.com/brunalimap/exercicios_html_css)
 
 - [Course Power BI 2.0](https://github.com/brunalimap/Power_BI_DSA_2.0/blob/main/README.md)
-      skills: DAX, Language M, Storytelling
+      -  skills: DAX, Language M, Storytelling
       
 - [Curso Python do ZERO ao DS](https://github.com/brunalimap/house_rocket) [Completed ✔️]
   
