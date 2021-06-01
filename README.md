@@ -39,7 +39,6 @@
 
 The purpose of this course is to perform various analysis of a dataset for the CEO of a fictional company called House Rocket.
     
-  ➡️ [Streamlit app](https://analytics-house-rockets.herokuapp.com/)
    - <b>skills:</b> Functions, Pandas, Numpy, Streamlit,Seaborn and Maps  
   
 - [Aceleradev - Data Science](https://github.com/brunalimap/AceleraDev_DataScience) [Completed ✔️]
