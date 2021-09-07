@@ -14,7 +14,7 @@
 
   In this project I developed a machine learning model capable of making a sales prediction for the next 6 weeks for the pharmaceutical company Rossmann. 
   
-  - [Telegram bot](@Rossmannsales_Bot)
+  - [Telegram bot](https://t.me/Rossmannsales_Bot)
 
   
 - [Analytics House Rocket](https://github.com/brunalimap/project_house_rocket) [Completed ✔️] 
