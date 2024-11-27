@@ -1,12 +1,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunalimap)](https://github.com/brunalimap)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunalimap/)](https://www.linkedin.com/in/brunalimap/)
-[![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunalimap90@gmail.com)
+[![Email Badge](https://img.shields.io/badge/email-brunapereira%40geb.inatel.br-red)](brunapereira@geb.inatel.br)
 
 <img  align="center" width="1000" src="https://github.com/brunalimap/brunalimap/blob/main/img/img01.gif">
 
 - 👩🏻‍🎓 Graduated Biomedical Engineer 
-- 📊 Future Data Science 
-- 📖 Professional Lifelong learning 
+-  📊 Future Data Science 
+-  📖 Professional Lifelong learning 
 - 👩🏻‍💻 Enthusiastic about developing projects that help solve business problems.
 
 ### Projects of Data Science 💻
@@ -54,7 +54,7 @@ The purpose of this course is to perform various analysis of a dataset for the C
 - <b>Data Collect and Storage</b>: SQL, MySQL and Postgres. 
 - <b>Data Processing and Analysis</b>: Python.
 - <b>Development</b>: Git, Scrum, Kanban, Lean Analytics and Linux.
-- <b>Data Vizualization</b>: TIBCO Spotfire, Power BI, Google Data Studio and Tableau. 
+- <b>Data Vizualization</b>: Power BI, Google Data Studio and Tableau. 
 - <b>Tools ETL</b>: Pentaho.
 - <b>Machine Learning Modeling</b>: Classification, Regression, Clustering, Time Series and NLP.
 - <b>Machine Learning Deployment</b>: Heroku, IBM Cloud.
